@@ -1,0 +1,45 @@
+body{
+    background: rgb(249,11,232);
+background: linear-gradient(90deg, rgba(249,11,232,1) 0%, rgba(0,212,255,1) 100%);
+  }
+  li{
+     color:whitesmoke
+    }
+    a {
+  padding: 1px;
+  text-decoration: none; 
+  color: rgb(249,11,232);
+ }
+    p{
+    color:whitesmoke
+    }
+    nav{
+      background: rgb(249,11,232);
+background: linear-gradient(90deg, rgba(249,11,232,1) 0%, rgba(0,212,255,1) 100%);
+    }
+.dropdown-menu{
+
+background: rgb(249,11,232);
+background: linear-gradient(90deg, rgba(249,11,232,1) 0%, rgba(0,212,255,1) 100%);
+}
+.navbarDropdown{
+background: rgb(249,11,232);
+background: linear-gradient(90deg, rgba(249,11,232,1) 0%, rgba(0,212,255,1) 100%);
+}
+.dropdown-menu{
+background: rgb(249,11,232);
+background: linear-gradient(90deg, rgba(249,11,232,1) 0%, rgba(0,212,255,1) 100%);
+}
+.btn{
+background: rgb(249,11,232);
+background: linear-gradient(90deg, rgba(249,11,232,1) 0%, rgba(0,212,255,1) 100%);
+}
+footer {
+    padding: 0 15px 10px;
+    border-top: 2px solid #ccc;
+    font-size: 0.9em;
+    clear: both;
+    display: block;
+    background: #eee;
+    background: linear-gradient(to bottom,#eee 0%,#fff 100%);
+}
